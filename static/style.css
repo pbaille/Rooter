@@ -1,0 +1,72 @@
+body {
+ text-align: center;
+ background: grey;
+ color: white;
+}
+
+h1 {
+ text-align: center;
+ color: white
+}
+
+p {
+ text-align: center;
+ color: white
+}
+
+table {
+ text-align: right;
+ color: white
+}
+
+div {
+ text-align: center;
+ color: white
+}
+ 
+reduce {
+ font-size: 50%;
+} 
+ 
+red {
+ color: red;
+ font-weight: bold;
+}
+
+green {
+ color: green;
+ font-weight: bold;
+}
+
+blue {
+ color: blue;
+ font-weight: bold;
+}
+
+yellow {
+ color: yellow;
+ font-weight: bold;
+}
+
+largetxt {
+ font-size: 24px;
+}
+
+left {
+ text-align: left;
+}
+
+right {
+ text-align: right;
+}
+
+table td {
+ text-align: left;
+ /*border: 1px solid white;*/
+}
+
+table td:first-child {
+ text-align: right;
+}​
+
+
