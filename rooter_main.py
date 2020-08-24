@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 #from rooter_server import autoWaterCount1, autoWaterCount2, autoWaterCount6
 
-os.system("lxterminal -e 'python3 MyServer.py' &")
+os.system("lxterminal -e 'python3 rooter_server.py' &")
 
 
 ser = serial.Serial('/dev/ttyACM0', 9600)
