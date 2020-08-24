@@ -6,7 +6,7 @@ import time
 from time import localtime, strftime
 import matplotlib.pyplot as plt
 import numpy as np
-#from MyServer import autoWaterCount1, autoWaterCount2, autoWaterCount6
+#from rooter_server import autoWaterCount1, autoWaterCount2, autoWaterCount6
 
 os.system("lxterminal -e 'python3 MyServer.py' &")
 
