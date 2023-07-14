@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+#represent le 06 gro
 import os
 #from smartGarden import autoWaterCount6
 
